@@ -11,3 +11,13 @@ echo will write to the screen (php)
 $_GET will store the query variables in an array, like AS3
 	an index array is a number [6]
 	an associative array is a string ["six"]
+
+
+
+
+
+====================================
+
+php.net will tell you all this stuff
+
+====================================
